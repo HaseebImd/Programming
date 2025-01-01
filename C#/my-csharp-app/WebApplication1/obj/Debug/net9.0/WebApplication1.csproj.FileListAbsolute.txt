@@ -26,3 +26,4 @@
 /home/haseebimdad/Programming/C#/my-csharp-app/WebApplication1/obj/Debug/net9.0/WebApplication1.pdb
 /home/haseebimdad/Programming/C#/my-csharp-app/WebApplication1/obj/Debug/net9.0/WebApplication1.genruntimeconfig.cache
 /home/haseebimdad/Programming/C#/my-csharp-app/WebApplication1/obj/Debug/net9.0/ref/WebApplication1.dll
+/home/haseebimdad/Programming/C#/my-csharp-app/WebApplication1/obj/Debug/net9.0/WebApplication1.sourcelink.json
