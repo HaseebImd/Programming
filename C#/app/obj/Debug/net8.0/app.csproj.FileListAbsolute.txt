@@ -1,0 +1,14 @@
+/home/haseebimdad/Programming/C#/app/bin/Debug/net8.0/app
+/home/haseebimdad/Programming/C#/app/bin/Debug/net8.0/app.deps.json
+/home/haseebimdad/Programming/C#/app/bin/Debug/net8.0/app.runtimeconfig.json
+/home/haseebimdad/Programming/C#/app/bin/Debug/net8.0/app.dll
+/home/haseebimdad/Programming/C#/app/bin/Debug/net8.0/app.pdb
+/home/haseebimdad/Programming/C#/app/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/home/haseebimdad/Programming/C#/app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/home/haseebimdad/Programming/C#/app/obj/Debug/net8.0/app.AssemblyInfo.cs
+/home/haseebimdad/Programming/C#/app/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/home/haseebimdad/Programming/C#/app/obj/Debug/net8.0/app.dll
+/home/haseebimdad/Programming/C#/app/obj/Debug/net8.0/refint/app.dll
+/home/haseebimdad/Programming/C#/app/obj/Debug/net8.0/app.pdb
+/home/haseebimdad/Programming/C#/app/obj/Debug/net8.0/app.genruntimeconfig.cache
+/home/haseebimdad/Programming/C#/app/obj/Debug/net8.0/ref/app.dll
