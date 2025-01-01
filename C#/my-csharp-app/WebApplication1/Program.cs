@@ -22,6 +22,7 @@ class Program
     {
         UserManagement.User user = new UserManagement.User();
         user.Printing();
+        
         UserManagement.User.Testing();
     }
 }
